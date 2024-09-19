@@ -1,0 +1,25 @@
+h2 {
+  text-align: center;
+  font-size: 1rem;
+}
+
+ion-title {
+  text-align: center;
+}
+
+ion-item {
+  margin-bottom: 15px;
+}
+
+.centered-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+ion-text {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  text-align: center;
+  display: block;
+}
